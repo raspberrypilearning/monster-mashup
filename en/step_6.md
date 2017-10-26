@@ -1,13 +1,13 @@
-## Making monsters—At random!
-Ok, your program makes the one monster. It's always the same. Time to make more of them! You're going to need to pick bits off of each list at random. Luckily, this is pretty easy in Python! You just need to add `random`! 
+## Making monsters — at random!
+Ok, your program makes the one monster. It's always the same. Time to make more of them! You're going to need to pick bits from each list at random. Luckily, this is pretty easy in Python: you just need to add `random`.
 
-  - Update your monster making function to choose the pieces of the name at random.
+- Update your monster-making function to choose the pieces of the name at random.
 
 ### Choosing from a list at random
-You'll need to **import** some extra code so you can use the `random` **functions**. `random` is built into Python, so it'll always be available to `import`.
+You'll need to `import` some extra code so you can use the `random` functions. `random` is built into Python, so it'll always be available to import.
 
 ```python
-import random # this line goes at the top of your file
+import random  # this line goes at the top of your file
 
 my_list = ['cat', 'dog', 'rabbit']
 random_animal = random.choice(my_list)
@@ -18,7 +18,7 @@ random_animal = random.choice(my_list)
 Add this at the top of the file:
 
 ```python
-import random # this line goes at the top of your file
+import random  # this line goes at the top of your file
 ```
 
 Update the function so it looks like this:
@@ -42,6 +42,6 @@ print(make_monster())
 print(make_monster())
 ```
 
-They should be different!
+The names you get should be different!
 --- /hint ---
 --- /hints ---
