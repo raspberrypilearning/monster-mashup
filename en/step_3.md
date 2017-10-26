@@ -4,24 +4,19 @@ The monsters you're going to generate have three parts to their name. A beginnin
 ### Beginnings
   - Giant
   - Mega
-  - Greater
   - Lesser
 
 ### Middles
   - Draco
-  - Doom
-  - Death
   - Ice
   - Uni
 
 ### Ends
   - Cat
-  - Tree
-  - Owl
   - Ghost
   - Dragon
 
-To start your program, you'll need three lists in Python, one for beginnings, one for middles, and one for ends.
+  - To start your program, you'll need three lists in Python, one for beginnings, one for middles, and one for ends.
 
 ## Python lists
 Python has a type of variable called a **list**. It's used when you have a group of things that you want to keep together in one variable. They're usually all related somehow, like the songs released by a band or the players on a sports team.
@@ -55,17 +50,17 @@ You'll need to have three lists in your code, like this:
 ```python
 name_start = ['Giant',
               'Mega',
-              'Greater'
+              'Lesser'
               ]
 
 name_middle = ['Draco',
-               'Doom',
-               'Death'
+               'Ice',
+               'Uni'
                ]
 
 name_end = ['Cat',
-            'Tree',
-            'Owl'
+            'Ghost',
+            'Dragon'
             ]
 ```
 --- /hint ---
