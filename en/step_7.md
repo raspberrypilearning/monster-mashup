@@ -1,5 +1,7 @@
 ## Making enough monsters
-Your user ordered a certain number of monsters from you earlier. In order to make enough of them, you can create a list of monsters and then use a `while` loop to make them until you have enough.
+Your user ordered a certain number of monsters from you earlier. You need to deliver! 
+
+   - Create a list of monsters and then use a `while` loop to make them until you have enough.
 
 ### Adding things to lists
 You can add an **item** to a **list** using the `append` **function**.

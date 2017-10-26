@@ -2,4 +2,4 @@
 
 ### Software
 
-+ Python, either on your computer or through a site like [repl.it](http://repl.it)
+  - Python 3, either on your computer or through a site like [repl.it](http://repl.it)
