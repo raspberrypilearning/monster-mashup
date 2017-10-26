@@ -4,7 +4,7 @@ You will need to make a few monsters to fill your user's order. The easiest way 
   - Try creating a function that joins together the first items in each list.
 
 ### Functions
-Python functions are like pre-written sets of instructions that you can use by just **calling** the function's name. A similar example for a human would be "make a cup of tea". You don't need to be told to put the teabag into the pot, then add water, etc. You know you'll need to do that to make tea. You can teach Python in the same way. Functions are created using `def`, which is short for define. They usually **return** something, like that cup of tea!
+Python functions are like pre-written sets of instructions that you can use by just **calling** the function's name. A similar example for a human would be “make a cup of tea”. You don't need to be told to put the teabag into the pot, then add water, etc. You know you'll need to do that to make tea. You can teach Python in the same way. Functions are created using `def`, which is short for define. They usually **return** something, like that cup of tea!
 
 ```python
 def my_function():
@@ -13,7 +13,7 @@ def my_function():
   return first_number + second_number
 ```
 
-You **call** a function so that the code runs by using its name, like this:
+You **call** a function—which tells it to run the code inside it—by using its name, like this:
 
 ```python
 my_function()

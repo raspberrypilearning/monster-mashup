@@ -15,7 +15,7 @@ length = len(my_list)
 
 --- hints ---
 --- hint ---
-This code will work, but you may need to change the variable names to match your lists!
+This code will work, but you may need to change the **variable** names to match your **lists**!
 ```python
 print('This program can make '+str(len(name_start)*len(name_middle)*len(name_end))+' different monsters!')
 ```
@@ -23,7 +23,7 @@ print('This program can make '+str(len(name_start)*len(name_middle)*len(name_end
 --- /hints ---
 
 ### Placing an order
-Next, ask the user for the number of monsters they'd like and store that number in a variable.
+Next, ask the user for the number of monsters they'd like and store that number in a **variable**.
 
 --- hints ---
 --- hint ---

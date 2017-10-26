@@ -1,8 +1,10 @@
 ## Making monsters—At random!
-Ok, your program makes the one monster. It's always the same. Time to make more of them! You're going to need to pick bits off of each list at random. Luckily, this is pretty easy in Python! You just need to add `random`! Update your monster making function to choose the pieces of the name at random.
+Ok, your program makes the one monster. It's always the same. Time to make more of them! You're going to need to pick bits off of each list at random. Luckily, this is pretty easy in Python! You just need to add `random`! 
+
+  - Update your monster making function to choose the pieces of the name at random.
 
 ### Choosing from a list at random
-You'll need to **import** some extra code, so you can use the `random` **functions**, but it's built into Python, so it'll always be there for you.
+You'll need to **import** some extra code so you can use the `random` **functions**. `random` is built into Python, so it'll always be available to `import`.
 
 ```python
 import random # this line goes at the top of your file

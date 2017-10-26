@@ -1,5 +1,7 @@
 ## Delivering your monsters
-Now that you have enough monsters, time to introduce them to the user by printing them out! You can use a `for` loop to do something once for each item in a list, like your list of monsters.
+Now that you have enough monsters, time to introduce them to the user by printing them out! You can use a `for` **loop** to do something once for each **item** in a **list**, like your **list** of monsters.
+
+  - Using a `for` **loop** and the **list** of monsters you created, `print` out the name of every monster.
 
 ### For loops
 For loops let you repeat a piece of code for every item in a list, like this:
@@ -22,7 +24,9 @@ for monster in monsters:
 --- /hints ---
 
 ### Deliver with style!
-Give your monsters an impressive introduction: Create a list of introductions and pick one at random for each monster as you're presenting them.
+Give your monsters an impressive introduction!
+
+  - Create a **list** of introductions and pick one at `random` for each monster as you're presenting them.
 
 --- hints ---
 --- hint ---
