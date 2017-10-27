@@ -1,10 +1,10 @@
-## Making monsters—Picking pieces
-You will need to make a few monsters to fill your user's order. The easiest way to do that is with a **function** which will let you re-use the same piece of code over and over again.
+## Making monsters — picking pieces
+You will need to make a few monsters to fill your user's order. The easiest way to do that is with a function, because it will let you re-use the same piece of code over and over again.
 
-  - Try creating a function that joins together the first items in each list.
+- Try creating a function that joins together the first items in each list.
 
 ### Functions
-Python functions are like pre-written sets of instructions that you can use by just **calling** the function's name. A similar example for a human would be “make a cup of tea”. You don't need to be told to put the teabag into the pot, then add water, etc. You know you'll need to do that to make tea. You can teach Python in the same way. Functions are created using `def`, which is short for define. They usually **return** something, like that cup of tea!
+Python functions are like pre-written sets of instructions which you can use by just **calling** the function's name. A similar example for a human would be “Make a cup of tea”. You don't need to be told to put a teabag into a pot, then boil and add water, etc. You already know you'll need to do that to make tea. You can teach Python in the same way. Functions are created using `def`, which is short for ‘define’. They usually **return** something, like that cup of tea!
 
 ```python
 def my_function():
@@ -13,7 +13,7 @@ def my_function():
   return first_number + second_number
 ```
 
-You **call** a function—which tells it to run the code inside it—by using its name, like this:
+You call a function — which tells it to run the code inside it — by using its name, like this:
 
 ```python
 my_function()
@@ -26,7 +26,7 @@ my_number = my_function()
 ```
 
 ### Getting things from lists
-You can get the **item** at any position on the list by using its **index**—the number that marks its position. The count of the position starts from 0, not 1 though.
+You can get the item at any position on the list by using its index — the number that marks its position. Note that the count of the position starts from 0 and not 1.
 
 ```python
   my_list = ['cat', 'dog', 'rabbit']
@@ -35,10 +35,10 @@ You can get the **item** at any position on the list by using its **index**—th
 
 --- hints ---
 --- hint ---
-Remember that you can join **variables** and text together inside a `print` with `+`.
+Remember that you can join **variables** and text together inside a `print` statement with `+`.
 --- /hint ---
 --- hint ---
-A function that joins together the first items on each list would look like this, though you might need to change some variable names!
+A function that joins together the first items on each list would look like this, though you might need to change some variable names to match your lists.
 
 ```python
 def make_monster():
