@@ -19,10 +19,10 @@ The monsters you're going to generate have three parts to their name: a beginnin
 - To start your program, you'll need three **lists** in Python, one for beginnings, one for middles, and one for ends.
 
 ## Python lists
-Python has a type of variable called a list. It's used when you have a group of things that you want to keep together in one variable. They're usually all related somehow, like the songs released by a band, or the players on a sports team.
+Python has a type of variable called a list. It's used when you have a group of items that you want to keep together in one variable. They're usually all related somehow, like the songs released by a band, or the players on a sports team.
 
 #### Empty lists
-This list has nothing in it yet — you can add **items** to it later:
+This list has nothing in it yet — you can add items to it later:
 
 ```python
 my_list = []

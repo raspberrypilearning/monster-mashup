@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you'll be making a random monster generator. It will create a list of original monster names from parts you put into it! Who knows, maybe one will inspire your next Halloween costume!
+In this project you'll be making a random monster generator. It'll create a list of original monster names from parts you put into it! Who knows, maybe one will inspire your next Hallowe'en costume!
 
 ### What you will make
 
@@ -24,7 +24,7 @@ another_variable = 42
 ```
 
 #### Comments
-Anything that follows a hash (`#`) character is a comment and will be ignored by Python until the end of the line. You can use comments to leave yourself, or other programmers, notes. This can be really helpful when you open up a program after a few weeks, months, or even years of not looking at it!
+Anything that follows a hash (`#`) character is a **comment** and will be ignored by Python until the end of the line. You can use comments to leave yourself, or other programmers, notes. This can be really helpful when you open up a program after a few weeks, months, or even years of not looking at it!
 
 ```python
 # This is a note on its own line
@@ -32,7 +32,7 @@ my_variable = 'Some text I want to remember' # This note could remind me why the
 ```
 
 #### Indents are important
-Python uses indenting (spaces in from the side) of your code to understand when things are inside other things, for example the code inside a **loop** or a conditional statement.
+Python uses indenting (spaces in from the side) of your code to understand when things are inside other things, for example the code inside a loop or a conditional statement.
 
 ```python
 # no indent
@@ -41,7 +41,7 @@ Python uses indenting (spaces in from the side) of your code to understand when 
 ```
 
 #### Printing
-Use the `print()` **function** to display messages to your user.
+You can use the `print()` function to display messages to your user.
 
 ```python
 print('My very important message')
@@ -55,7 +55,7 @@ user_name = input('What is your name?')
 ```
 
 #### While loops
-You can use a `while` loop to do the same thing over and over, as long as its condition is **true**.
+You can use a `while` **loop** to do the same thing over and over, as long as its condition is **true**.
 
 ```python
 my_number = 10

@@ -4,7 +4,7 @@ Now that you have enough monsters, it's time to introduce them to the user by pr
 - Using a `for` loop and the list of monsters you created, `print` out the name of every monster.
 
 ### For loops
-`For` loops let you repeat a piece of code for every item in a list, like this:
+`for` loops let you repeat a piece of code for every item in a list, like this:
 
 ```python
 my_list = ['cat', 'dog', 'rabbit']

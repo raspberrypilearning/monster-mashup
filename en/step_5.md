@@ -4,7 +4,7 @@ You will need to make a few monsters to fill your user's order. The easiest way 
 - Try creating a function that joins together the first items in each list.
 
 ### Functions
-Python functions are like pre-written sets of instructions which you can use by just **calling** the function's name. A similar example for a human would be “Make a cup of tea”. You don't need to be told to put a teabag into a pot, then boil and add water, etc. You already know you'll need to do that to make tea. You can teach Python in the same way. Functions are created using `def`, which is short for 'define'. They usually **return** something, like that cup of tea!
+Python functions are like pre-written sets of instructions which you can use by just **calling** the function's name. A similar example for a human would be “Make a cup of tea”. You don't need to be told to put a teabag into a pot, then boil and add water, etc. You already know you'll need to do that to make tea. You can teach Python in the same way. Functions are created using `def`, which is short for ‘define’. They usually **return** something, like that cup of tea!
 
 ```python
 def my_function():
@@ -26,7 +26,7 @@ my_number = my_function()
 ```
 
 ### Getting things from lists
-You can get the item at any position on the list by using its index — the number that marks its position. Note tha the count of the position starts from 0 and not 1.
+You can get the item at any position on the list by using its index — the number that marks its position. Note that the count of the position starts from 0 and not 1.
 
 ```python
   my_list = ['cat', 'dog', 'rabbit']
@@ -38,7 +38,7 @@ You can get the item at any position on the list by using its index — the numb
 Remember that you can join **variables** and text together inside a `print` statement with `+`.
 --- /hint ---
 --- hint ---
-A function which joins together the first items on each list would look like this, though you might need to change some variable names!
+A function that joins together the first items on each list would look like this, though you might need to change some variable names to match your lists.
 
 ```python
 def make_monster():
