@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you'll be making a random monster generator. It'll create a list of original monster names from parts you put into it! Who knows, maybe one will inspire your next Hallowe'en costume!
+In this project — which is for people who've already completed the [Beginner Python Sushi Cards](http://kata.coderdojo.com/wiki/Beginner_Python), or otherwise learned the basics of Python — you'll be making a random monster generator. It'll create a list of original monster names from parts you put into it! Who knows, maybe one will inspire your next Hallowe'en costume!
 
 ### What you will make
 
@@ -9,8 +9,7 @@ A monster generator that will create such original creatures as the fire breathi
 ![A terminal output screen displaying several unusual monster names. For example: the Gruesome Demi-Ghost-Frog.](images/finished_product.png)
 
 ### What you need to remember
-
-This project is for people who've already completed the Beginner Python Sushi Cards, or otherwise learned the basics of Python. Here's a quick reminder of what you'll need to know:
+Here's a quick reminder of what you'll need to know before starting this project:
 
 #### Sequence of code
 Python reads your code from top to bottom. You can't use anything earlier in the program than you created it. So, for example, you can't use the value of a **variable** before you've actually created that variable and put the value in it.
