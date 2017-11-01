@@ -19,8 +19,11 @@ You can check whether the length (`len()`) of your monsters list is still less t
 The code could look something like this:
 
 ```python
-while len(monsters) < requested_monsters:
+while len(monsters) < int(requested_monsters):
   monsters.append(make_monster())
 ```
+
+Note that you need to convert `requested_monsters` using `int()` before you can compare it to the result of `len()`.
+
 --- /hint ---
 --- /hints ---
