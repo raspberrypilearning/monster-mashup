@@ -1,7 +1,8 @@
+---
 title: Monster mashup
 hero_image: images/coderdojo-python.svg
 description: Create dozens of random monster names!
-theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: blue
 duration: 2
 listed: false
 ingredient: false
@@ -14,12 +15,14 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
+  completion: engaged
 - title: Monster parts
 - title: Ordering monsters
 - title: Making monsters — picking pieces
 - title: Making monsters — at random!
 - title: Making enough monsters
+  completion: internal
 - title: Delivering your monsters
